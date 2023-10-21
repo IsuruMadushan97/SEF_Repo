@@ -21,20 +21,20 @@ public class Main {
 
         //Invalid artist ID
          /*Artist artist1 = new Artist(
-                "123InvalidID", //Invalid ID
-                "Alice Smith",
+                "47InvalidID", //Invalid ID
+                "Alicia Davis",
                 "987 Lamest St",
-                "01-01-1995",
+                "21-10-1997",
                 "A versatile artist with a passion for singing.",
                 new ArrayList<>(List.of("Singer")),
                 new ArrayList<>(List.of("Producer", "DJ")),
-                new ArrayList<>(List.of("2019, Best singer"))
+                new ArrayList<>(List.of("2018, Best singer"))
         );*/
 
          //Invalid Genres (Pop and Rock Together)
          /*Artist artist2 = new Artist(
-                "668MMMRR%%",
-                "Bob Johnson",
+                "877LMNOP!%",
+                "Daniel Brown",
                 "749 Occenls St",
                 "28-02-1980",
                 "Singer and songwriter with a passion for music.",
@@ -45,8 +45,8 @@ public class Main {
 
         // Invalid Bio (Less than 10 words)
         /*Artist artist3 = new Artist(
-                "569MMMRR_%",
-                "Catherine Davis",
+                "666UVWXYZ!#",
+                "Maria Rodriguez",
                 "789 epping St",
                 "15-03-1992",
                 "A talented artist specializing in abstract art.",
@@ -57,7 +57,7 @@ public class Main {
 
         // Invalid bio length
         /*Artist artist4 = new Artist(
-                "569MMMRR_%",
+                "877LMNOP!%",
                 "David Wilson",
                 "838 kingsburry St",
                 "12-11-1992",
@@ -69,14 +69,14 @@ public class Main {
 
         // Valid Artist Update with Same Birth Year
         /*Artist artist5 = new Artist(
-                "569MMMRR_%",
+                "655GHIJK@$",
                 "Emily Johnson",
                 "386 dear park St",
                 "18-10-1993",
-                "A talented artist with a bio.",
+                "Singer and songwriter with a passion for music",
                 new ArrayList<>(List.of("Singer", "Songwriter")),
-                new ArrayList<>(List.of("Rock", "Jazz")),
-                new ArrayList<>(List.of("2022, Updated Award")) // Invalid award format
+                new ArrayList<>(List.of("pop", "classical")),
+                new ArrayList<>(List.of("2022, Best Song Written For Visual Media")) // Invalid award format
         );*/
 
         // Invalid Artist Update (Occupations Changed for Artist Born Before 2000)
