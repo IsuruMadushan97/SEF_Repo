@@ -1,1 +1,1 @@
-{"Awards":["B2023, Best Song Written For Visual Media"],"Address":"Melbourne|Victoria|Australia","Occupations":["Sculptor"],"Bio":"A talented artist tes this functions if this workd shei i iwe ididid ii","ID":"668MMMRR%%","Genres":["Abstract","Realism"],"Birthdate":"05-11-1980","Name":"John Doe"}
+{"Awards":["2019, Best R&B Album"],"Address":"Melbourne|Victoria|Australia","Occupations":["Singer", "Songwriter"],"Bio":R&B and soul singer known for powerful vocals.","ID":"655GHIJK@$","Genres":["Abstract","Realism"],"Birthdate":"05-11-1972","Name":"Alicia Davis"}
